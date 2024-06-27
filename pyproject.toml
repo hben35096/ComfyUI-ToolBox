@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-toolbox"
+description = "Nodes:commonly_node."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/hben35096/ComfyUI-ToolBox"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ToolBox"
+Icon = ""
