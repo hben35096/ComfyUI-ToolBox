@@ -1,0 +1,7 @@
+basic_path: /root
+git_mirror_url: https://mirror.ghproxy.com/
+
+hf_mirror_url: https://hf-mirror.com
+hf_mirror_short_url: hf-mirror.com
+
+hf_mirror_default: True
