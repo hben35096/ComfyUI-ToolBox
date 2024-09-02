@@ -158,8 +158,3 @@ NODE_CLASS_MAPPINGS = {
     "FolderDeleter": FolderDeleter
 }
 
-NODE_DISPLAY_NAME_MAPPINGS = {
-    "AutoDLDownload": "AutoDL下载工具",
-    "FolderViewe": "查看文件",
-    "FolderDeleter": "删除文件"
-}
