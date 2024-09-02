@@ -3,7 +3,7 @@ import os
 
 node_list = [
     "commonly_node",
-    "file_manager.py"
+    "file_manager"
 ]
 
 NODE_CLASS_MAPPINGS = {}
